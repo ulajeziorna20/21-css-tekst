@@ -1,0 +1,22 @@
+h1 {
+    color: #0000ff;
+    text-align: center;
+    margin-top: 150px;
+    font-size: 50px;
+    margin-bottom: 60px;
+    
+}
+
+p {
+    color: black;
+    text-align: center;
+    font-size: 35px;
+    line-height: 0.2em;
+    font-weight: 500;
+  
+
+}
+
+span {
+    color: red;
+}
